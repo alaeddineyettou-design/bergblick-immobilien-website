@@ -141,4 +141,4 @@ This project is built as a client portfolio project. All content belongs to Berg
 
 ---
 
-*Built by **Alae Eddine** – KI Architekt & Web Developer*
+*Built by **Alaeddine** – KI Architekt & Web Developer*
